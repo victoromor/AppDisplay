@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\APPDISPLAY\bin\Debug\net7.0\APPDISPLAY.deps.json
+C:\Users\hp\Desktop\APPDISPLAY\bin\Debug\net7.0\APPDISPLAY.dll
+C:\Users\hp\Desktop\APPDISPLAY\bin\Debug\net7.0\APPDISPLAY.pdb
+C:\Users\hp\Desktop\APPDISPLAY\obj\Debug\net7.0\APPDISPLAY.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\APPDISPLAY\obj\Debug\net7.0\APPDISPLAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\APPDISPLAY\obj\Debug\net7.0\APPDISPLAY.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\APPDISPLAY\obj\Debug\net7.0\APPDISPLAY.AssemblyInfo.cs
+C:\Users\hp\Desktop\APPDISPLAY\obj\Debug\net7.0\APPDISPLAY.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\APPDISPLAY\obj\Debug\net7.0\APPDISPLAY.dll
+C:\Users\hp\Desktop\APPDISPLAY\obj\Debug\net7.0\refint\APPDISPLAY.dll
+C:\Users\hp\Desktop\APPDISPLAY\obj\Debug\net7.0\APPDISPLAY.pdb
+C:\Users\hp\Desktop\APPDISPLAY\obj\Debug\net7.0\ref\APPDISPLAY.dll

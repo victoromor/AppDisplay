@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <PackageId>victoromor.Utillties.AppDisplay</PackageId>
+    <Authors>OmorVictor</Authors>
+    <Company>OmorVictor</Company>
+    <Description>Library to display text to console</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Log, Display, Print</PackageTags>
+    <RepositoryUrl>https://github.com/victoromor/AppDisplay</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
